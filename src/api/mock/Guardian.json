@@ -1,0 +1,174 @@
+{
+	"response": {
+		"status": "ok",
+		"userTier": "developer",
+		"total": 2493217,
+		"startIndex": 1,
+		"pageSize": 10,
+		"currentPage": 1,
+		"pages": 249322,
+		"orderBy": "newest",
+		"results": [
+			{
+				"id": "football/live/2024/apr/01/championship-league-one-and-league-two-updates-football-clockwatch-live",
+				"type": "liveblog",
+				"sectionId": "football",
+				"sectionName": "Football",
+				"webPublicationDate": "2024-04-01T15:34:19Z",
+				"webTitle": "Championship, League One and League Two updates: football clockwatch – live",
+				"webUrl": "https://www.theguardian.com/football/live/2024/apr/01/championship-league-one-and-league-two-updates-football-clockwatch-live",
+				"apiUrl": "https://content.guardianapis.com/football/live/2024/apr/01/championship-league-one-and-league-two-updates-football-clockwatch-live",
+				"fields": {
+					"thumbnail": "https://media.guim.co.uk/3ec891d9e686c45a7ccb0c641a6c570b3fe918f1/0_94_3500_2101/500.jpg"
+				},
+				"isHosted": false,
+				"pillarId": "pillar/sport",
+				"pillarName": "Sport"
+			},
+			{
+				"id": "us-news/live/2024/apr/01/us-politics-news-updates-ukraine-aid",
+				"type": "liveblog",
+				"sectionId": "us-news",
+				"sectionName": "US news",
+				"webPublicationDate": "2024-04-01T15:13:47Z",
+				"webTitle": "Mike Johnson calls rightwing attempt to remove him as speaker ‘a distraction from our mission’ – live",
+				"webUrl": "https://www.theguardian.com/us-news/live/2024/apr/01/us-politics-news-updates-ukraine-aid",
+				"apiUrl": "https://content.guardianapis.com/us-news/live/2024/apr/01/us-politics-news-updates-ukraine-aid",
+				"fields": {
+					"thumbnail": "https://media.guim.co.uk/dd9a699b6132318bb70238b02cf6bfd92444ffe8/0_62_5830_3498/500.jpg"
+				},
+				"isHosted": false,
+				"pillarId": "pillar/news",
+				"pillarName": "News"
+			},
+			{
+				"id": "environment/2024/apr/01/eu-four-times-more-money-farming-animals-than-growing-plants-cap-subsidy",
+				"type": "article",
+				"sectionId": "environment",
+				"sectionName": "Environment",
+				"webPublicationDate": "2024-04-01T15:00:10Z",
+				"webTitle": "EU pumps four times more money into farming animals than growing plants",
+				"webUrl": "https://www.theguardian.com/environment/2024/apr/01/eu-four-times-more-money-farming-animals-than-growing-plants-cap-subsidy",
+				"apiUrl": "https://content.guardianapis.com/environment/2024/apr/01/eu-four-times-more-money-farming-animals-than-growing-plants-cap-subsidy",
+				"fields": {
+					"thumbnail": "https://media.guim.co.uk/a49a04195df29feb5bff47f5ebb2e2df3917f06e/0_74_6000_3602/500.jpg"
+				},
+				"isHosted": false,
+				"pillarId": "pillar/news",
+				"pillarName": "News"
+			},
+			{
+				"id": "society/2024/apr/01/smartphone-app-could-help-detect-early-onset-dementia-cause-study-finds",
+				"type": "article",
+				"sectionId": "society",
+				"sectionName": "Society",
+				"webPublicationDate": "2024-04-01T15:00:09Z",
+				"webTitle": "Smartphone app could help detect early-onset dementia cause, study finds",
+				"webUrl": "https://www.theguardian.com/society/2024/apr/01/smartphone-app-could-help-detect-early-onset-dementia-cause-study-finds",
+				"apiUrl": "https://content.guardianapis.com/society/2024/apr/01/smartphone-app-could-help-detect-early-onset-dementia-cause-study-finds",
+				"fields": {
+					"thumbnail": "https://media.guim.co.uk/d95bb34ca8f5f2e422b625acf1c7f0fefb38386e/1155_1825_3834_2300/500.jpg"
+				},
+				"isHosted": false,
+				"pillarId": "pillar/news",
+				"pillarName": "News"
+			},
+			{
+				"id": "world/live/2024/apr/01/russia-ukraine-war-live-france-says-it-expects-china-to-send-very-clear-messages-to-russia",
+				"type": "liveblog",
+				"sectionId": "world",
+				"sectionName": "World news",
+				"webPublicationDate": "2024-04-01T14:51:17Z",
+				"webTitle": "Russia-Ukraine war: Volodymyr Zelenskiy discusses drone production with military and government officials – as it happened",
+				"webUrl": "https://www.theguardian.com/world/live/2024/apr/01/russia-ukraine-war-live-france-says-it-expects-china-to-send-very-clear-messages-to-russia",
+				"apiUrl": "https://content.guardianapis.com/world/live/2024/apr/01/russia-ukraine-war-live-france-says-it-expects-china-to-send-very-clear-messages-to-russia",
+				"fields": {
+					"thumbnail": "https://media.guim.co.uk/768b4775c92a7b01ec7e25cadd32d9f7d1a5a0bf/149_137_2839_1704/500.jpg"
+				},
+				"isHosted": false,
+				"pillarId": "pillar/news",
+				"pillarName": "News"
+			},
+			{
+				"id": "world/live/2024/apr/01/middle-east-crisis-live-israel-gaza-al-shifa-hospital-latest-news-updates",
+				"type": "liveblog",
+				"sectionId": "world",
+				"sectionName": "World news",
+				"webPublicationDate": "2024-04-01T14:50:31Z",
+				"webTitle": "Middle East crisis: Israel withdraws from al-Shifa hospital in Gaza as Hamas-run media office says hundreds of Palestinians killed – as it happened",
+				"webUrl": "https://www.theguardian.com/world/live/2024/apr/01/middle-east-crisis-live-israel-gaza-al-shifa-hospital-latest-news-updates",
+				"apiUrl": "https://content.guardianapis.com/world/live/2024/apr/01/middle-east-crisis-live-israel-gaza-al-shifa-hospital-latest-news-updates",
+				"fields": {
+					"thumbnail": "https://media.guim.co.uk/c06eea005b8c56c3b00b08099cf42be3435ef74f/0_174_5544_3326/500.jpg"
+				},
+				"isHosted": false,
+				"pillarId": "pillar/news",
+				"pillarName": "News"
+			},
+			{
+				"id": "business/2024/apr/01/fast-fashion-retailer-shein-more-than-doubles-profits-as-it-awaits-ipo-approval",
+				"type": "article",
+				"sectionId": "business",
+				"sectionName": "Business",
+				"webPublicationDate": "2024-04-01T14:49:45Z",
+				"webTitle": "Fast fashion retailer Shein doubles profits as it awaits IPO approval",
+				"webUrl": "https://www.theguardian.com/business/2024/apr/01/fast-fashion-retailer-shein-more-than-doubles-profits-as-it-awaits-ipo-approval",
+				"apiUrl": "https://content.guardianapis.com/business/2024/apr/01/fast-fashion-retailer-shein-more-than-doubles-profits-as-it-awaits-ipo-approval",
+				"fields": {
+					"thumbnail": "https://media.guim.co.uk/aa67fcbb487b8c749388ae931fa77c632ebfa7f7/1463_232_2331_1399/500.jpg"
+				},
+				"isHosted": false,
+				"pillarId": "pillar/news",
+				"pillarName": "News"
+			},
+			{
+				"id": "football/live/2024/apr/01/leicester-v-norwich-championship-live",
+				"type": "liveblog",
+				"sectionId": "football",
+				"sectionName": "Football",
+				"webPublicationDate": "2024-04-01T14:14:33Z",
+				"webTitle": "Leicester 3-1 Norwich: Championship – live reaction",
+				"webUrl": "https://www.theguardian.com/football/live/2024/apr/01/leicester-v-norwich-championship-live",
+				"apiUrl": "https://content.guardianapis.com/football/live/2024/apr/01/leicester-v-norwich-championship-live",
+				"fields": {
+					"thumbnail": "https://media.guim.co.uk/6cab181a564708bac11d5b807e1c44288337c350/0_89_2124_1275/500.jpg"
+				},
+				"isHosted": false,
+				"pillarId": "pillar/sport",
+				"pillarName": "Sport"
+			},
+			{
+				"id": "football/2024/apr/01/leicester-norwich-championship-match-report",
+				"type": "article",
+				"sectionId": "football",
+				"sectionName": "Football",
+				"webPublicationDate": "2024-04-01T14:10:31Z",
+				"webTitle": "Jamie Vardy’s late strike helps resurgent Leicester see off Norwich",
+				"webUrl": "https://www.theguardian.com/football/2024/apr/01/leicester-norwich-championship-match-report",
+				"apiUrl": "https://content.guardianapis.com/football/2024/apr/01/leicester-norwich-championship-match-report",
+				"fields": {
+					"thumbnail": "https://media.guim.co.uk/eee86ea29145925252b1bda7db6bb392b501e9f8/0_128_3842_2305/500.jpg"
+				},
+				"isHosted": false,
+				"pillarId": "pillar/sport",
+				"pillarName": "Sport"
+			},
+			{
+				"id": "football/2024/apr/01/arsenal-manchester-city-liverpool-premier-league-title-race",
+				"type": "article",
+				"sectionId": "football",
+				"sectionName": "Football",
+				"webPublicationDate": "2024-04-01T14:04:43Z",
+				"webTitle": "Football’s elite are tightening up – and Arsenal lead the pack",
+				"webUrl": "https://www.theguardian.com/football/2024/apr/01/arsenal-manchester-city-liverpool-premier-league-title-race",
+				"apiUrl": "https://content.guardianapis.com/football/2024/apr/01/arsenal-manchester-city-liverpool-premier-league-title-race",
+				"fields": {
+					"thumbnail": "https://media.guim.co.uk/32c9c0d73939a5f2891094bec632c51eb160d5f8/2_0_4996_3000/500.jpg"
+				},
+				"isHosted": false,
+				"pillarId": "pillar/sport",
+				"pillarName": "Sport"
+			}
+		]
+	}
+}

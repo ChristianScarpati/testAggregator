@@ -1,0 +1,1170 @@
+{
+	"status": "OK",
+	"copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+	"num_results": 20,
+	"results": [
+		{
+			"uri": "nyt://article/6335a321-7960-59e0-bd68-a5cd0c825901",
+			"url": "https://www.nytimes.com/2024/03/28/t-magazine/furniture-design-office-chair-shelving-unit.html",
+			"id": 100000009309551,
+			"asset_id": 100000009309551,
+			"source": "New York Times",
+			"published_date": "2024-03-28",
+			"updated": "2024-03-28 12:58:06",
+			"section": "T Magazine",
+			"subsection": "",
+			"nytdsection": "t magazine",
+			"adx_keywords": "Furniture;Tables;Design;Interior Design and Furnishings;Moore, Julianne;Aulenti, Gae;de Cardenas, Rafael;Kusama, Yayoi;Le Corbusier",
+			"column": null,
+			"byline": "By Nick Haramis, Max Berlinger, Rose Courteau, Kate Guadagnino, Max Lakin and Evan Moffitt",
+			"type": "Article",
+			"title": "The 25 Most Defining Pieces of Furniture From the Last 100 Years",
+			"abstract": "Three designers, a museum curator, an artist and a design-savvy actress convened at The New York Times to make a list of the most enduring and significant objects for living.",
+			"des_facet": ["Furniture", "Tables", "Design", "Interior Design and Furnishings"],
+			"org_facet": [],
+			"per_facet": [
+				"Moore, Julianne",
+				"Aulenti, Gae",
+				"de Cardenas, Rafael",
+				"Kusama, Yayoi",
+				"Le Corbusier"
+			],
+			"geo_facet": [],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "",
+					"copyright": "Clockwise, from top left: Valentin Jeck; courtesy of Bukowskis; courtesy of Zanotta SpA - Italy; Carnegie Museum of Art, Pittsburgh/Art Resource, NY © ARS, NY; Ellen McDermott © Smithsonian Institution; Herman Miller Archives; Vitra",
+					"approved_for_syndication": 0,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/t-magazine/28tmag-furniture-slide-R35E-copy/28tmag-furniture-slide-R35E-copy-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/t-magazine/28tmag-furniture-slide-R35E-copy/28tmag-furniture-slide-R35E-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/t-magazine/28tmag-furniture-slide-R35E-copy/28tmag-furniture-slide-R35E-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/5b3ac615-1536-52b4-a1c3-ea3931b189e8",
+			"url": "https://www.nytimes.com/2024/03/27/well/colon-cancer-symptoms-treatment.html",
+			"id": 100000009368097,
+			"asset_id": 100000009368097,
+			"source": "New York Times",
+			"published_date": "2024-03-27",
+			"updated": "2024-03-29 13:24:34",
+			"section": "Well",
+			"subsection": "",
+			"nytdsection": "well",
+			"adx_keywords": "Colon and Colorectal Cancer;Colonoscopy;Disease Rates;Digestive Tract;Tests (Medical);Content Type: Service;Youth;Diet and Nutrition;American Cancer Society;United States",
+			"column": null,
+			"byline": "By Knvul Sheikh",
+			"type": "Article",
+			"title": "More Young People Than Ever Will Get Colorectal Cancer This Year",
+			"abstract": "Colon and rectal cancers are increasing among people younger than 50. Experts have a few ideas about why.",
+			"des_facet": [
+				"Colon and Colorectal Cancer",
+				"Colonoscopy",
+				"Disease Rates",
+				"Digestive Tract",
+				"Tests (Medical)",
+				"Content Type: Service",
+				"Youth",
+				"Diet and Nutrition"
+			],
+			"org_facet": ["American Cancer Society"],
+			"per_facet": [],
+			"geo_facet": ["United States"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "",
+					"copyright": "Jeannie Phan",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/27/well/27Well-Colon-Cancer/27Well-Colon-Cancer-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/27/well/27Well-Colon-Cancer/27Well-Colon-Cancer-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/27/well/27Well-Colon-Cancer/27Well-Colon-Cancer-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/01fe6f8b-6569-5c80-8b08-0d849e180b85",
+			"url": "https://www.nytimes.com/2024/03/28/opinion/kamala-harris-puerto-rico.html",
+			"id": 100000009381649,
+			"asset_id": 100000009381649,
+			"source": "New York Times",
+			"published_date": "2024-03-28",
+			"updated": "2024-03-29 12:25:19",
+			"section": "Opinion",
+			"subsection": "",
+			"nytdsection": "opinion",
+			"adx_keywords": "United States Politics and Government;Federal-State Relations (US);Hurricane Maria (2017);Floods;Tax Credits, Deductions and Exemptions;Polls and Public Opinion;Harris, Kamala D;Puerto Rico",
+			"column": null,
+			"byline": "By Yarimar Bonilla",
+			"type": "Article",
+			"title": "Kamala Harris’s Epic Fail in Puerto Rico",
+			"abstract": "While she did not toss paper towels, her visit was what Puerto Ricans call a papelón — an embarrassing spectacle.",
+			"des_facet": [
+				"United States Politics and Government",
+				"Federal-State Relations (US)",
+				"Hurricane Maria (2017)",
+				"Floods",
+				"Tax Credits, Deductions and Exemptions",
+				"Polls and Public Opinion"
+			],
+			"org_facet": [],
+			"per_facet": ["Harris, Kamala D"],
+			"geo_facet": ["Puerto Rico"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "",
+					"copyright": "Drew Angerer/Agence France-Presse — Getty Images",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/28bonilla-wclj/28bonilla-wclj-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/28bonilla-wclj/28bonilla-wclj-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/28bonilla-wclj/28bonilla-wclj-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/c12aa1e3-582a-576a-be80-801f30c0455c",
+			"url": "https://www.nytimes.com/2024/03/28/opinion/biden-trump-china.html",
+			"id": 100000009385184,
+			"asset_id": 100000009385184,
+			"source": "New York Times",
+			"published_date": "2024-03-28",
+			"updated": "2024-03-29 12:03:30",
+			"section": "Opinion",
+			"subsection": "",
+			"nytdsection": "opinion",
+			"adx_keywords": "United States Economy;United States International Relations;International Trade and World Market;Electric and Hybrid Vehicles;Batteries;Protectionism (Trade);United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J;TikTok (ByteDance);World Trade Organization;China",
+			"column": null,
+			"byline": "By Paul Krugman",
+			"type": "Article",
+			"title": "Bidenomics Is Making China Angry. That’s OK.",
+			"abstract": "Trump talked tough, but Biden is wielding a big stick.",
+			"des_facet": [
+				"United States Economy",
+				"United States International Relations",
+				"International Trade and World Market",
+				"Electric and Hybrid Vehicles",
+				"Batteries",
+				"Protectionism (Trade)",
+				"United States Politics and Government"
+			],
+			"org_facet": ["TikTok (ByteDance)", "World Trade Organization"],
+			"per_facet": ["Biden, Joseph R Jr", "Trump, Donald J"],
+			"geo_facet": ["China"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "",
+					"copyright": "Agence France-Presse &mdash; Getty Images",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/30/multimedia/28krugman-kmpl/28krugman-kmpl-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/30/multimedia/28krugman-kmpl/28krugman-kmpl-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/30/multimedia/28krugman-kmpl/28krugman-kmpl-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://interactive/6c83c670-e907-5202-92a0-9e27f047e5d0",
+			"url": "https://www.nytimes.com/interactive/2024/03/28/realestate/rent-party-harlem-renaissance.html",
+			"id": 100000009380235,
+			"asset_id": 100000009380235,
+			"source": "New York Times",
+			"published_date": "2024-03-28",
+			"updated": "2024-03-29 13:47:20",
+			"section": "Real Estate",
+			"subsection": "",
+			"nytdsection": "real estate",
+			"adx_keywords": "Black People;Income Inequality;Nineteen Hundred Twenties;Real Estate and Housing (Residential);Renting and Leasing (Real Estate);Jazz;Content Type: Personal Profile;Race and Ethnicity;Harlem Renaissance Movement;vis-design;Hughes, Langston;Harlem (Manhattan, NY)",
+			"column": null,
+			"byline": "By Debra Kamin",
+			"type": "Interactive",
+			"title": "The Rent Was Too High So They Threw a Party",
+			"abstract": "During the Harlem Renaissance, some Black people hosted rent parties, celebrations with an undercurrent of desperation in the face of racism and discrimination.",
+			"des_facet": [
+				"Black People",
+				"Income Inequality",
+				"Nineteen Hundred Twenties",
+				"Real Estate and Housing (Residential)",
+				"Renting and Leasing (Real Estate)",
+				"Jazz",
+				"Content Type: Personal Profile",
+				"Race and Ethnicity",
+				"Harlem Renaissance Movement",
+				"vis-design"
+			],
+			"org_facet": [],
+			"per_facet": ["Hughes, Langston"],
+			"geo_facet": ["Harlem (Manhattan, NY)"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "",
+					"caption": "",
+					"copyright": "by The New York Times",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/fashion/29-rent-parties-promo/29-rent-parties-promo-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/fashion/29-rent-parties-promo/29-rent-parties-promo-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/fashion/29-rent-parties-promo/29-rent-parties-promo-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/767c5e66-b708-5083-ac44-8ee8c82e5590",
+			"url": "https://www.nytimes.com/2024/03/28/climate/sponge-cities-kongjian-yu.html",
+			"id": 100000009362746,
+			"asset_id": 100000009362746,
+			"source": "New York Times",
+			"published_date": "2024-03-28",
+			"updated": "2024-03-29 11:50:05",
+			"section": "Climate",
+			"subsection": "",
+			"nytdsection": "climate",
+			"adx_keywords": "Floods;Global Warming;Urban Areas;Area Planning and Renewal;Yu, Kongjian;China",
+			"column": null,
+			"byline": "By Richard Schiffman",
+			"type": "Article",
+			"title": "He’s Got a Plan for Cities That Flood: Stop Fighting the Water",
+			"abstract": "A landscape architect in China has a surprising strategy to help manage surges of water from storms supercharged by climate change.",
+			"des_facet": ["Floods", "Global Warming", "Urban Areas", "Area Planning and Renewal"],
+			"org_facet": [],
+			"per_facet": ["Yu, Kongjian"],
+			"geo_facet": ["China"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "Kongjian Yu at his office in Beijing. “We’ve been using the conventional drainage infrastructure for 200 years and we haven’t solved the flooding problem,” he said.",
+					"copyright": "Mark Schiefelbein/Associated Press",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/15/multimedia/00cli-spongecities-01-vbwl/00cli-spongecities-01-vbwl-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/15/multimedia/00cli-spongecities-01-vbwl/00cli-spongecities-01-vbwl-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/15/multimedia/00cli-spongecities-01-vbwl/00cli-spongecities-01-vbwl-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/25fdfe14-af49-5e88-b481-83c6a6f6d31e",
+			"url": "https://www.nytimes.com/2024/03/29/world/europe/notre-dame-restoration-carpenter.html",
+			"id": 100000009321201,
+			"asset_id": 100000009321201,
+			"source": "New York Times",
+			"published_date": "2024-03-29",
+			"updated": "2024-03-29 22:36:48",
+			"section": "World",
+			"subsection": "Europe",
+			"nytdsection": "world",
+			"adx_keywords": "Content Type: Personal Profile;Carpentry and Carpenters;Churches (Buildings);Historic Buildings and Sites;Wood and Wood Products;Foreign Workers;Fires and Firefighters;Restoration and Renovation;Hank Silver;Notre Dame Cathedral (Paris, France);Paris (France);France",
+			"column": null,
+			"byline": "By Aurelien Breeden",
+			"type": "Article",
+			"title": "From New England to Notre-Dame, a U.S. Carpenter Tends to a French Icon",
+			"abstract": "Hank Silver, a timber framer based in Massachusetts, is one of a handful of foreigners who are helping to rebuild the Paris cathedral after the devastating fire in 2019.",
+			"des_facet": [
+				"Content Type: Personal Profile",
+				"Carpentry and Carpenters",
+				"Churches (Buildings)",
+				"Historic Buildings and Sites",
+				"Wood and Wood Products",
+				"Foreign Workers",
+				"Fires and Firefighters",
+				"Restoration and Renovation"
+			],
+			"org_facet": ["Notre Dame Cathedral (Paris, France)"],
+			"per_facet": ["Hank Silver"],
+			"geo_facet": ["Paris (France)", "France"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "Hank Silver in Paris this month. The opportunity to work on a project like the renovation of Notre-Dame Cathedral comes “once in a millennium,” the carpenter said.",
+					"copyright": "Dmitry Kostyukov for The New York Times",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29france-notredame-profile-01-fhmc/29france-notredame-profile-01-fhmc-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29france-notredame-profile-01-fhmc/29france-notredame-profile-01-fhmc-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29france-notredame-profile-01-fhmc/29france-notredame-profile-01-fhmc-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/1e0dad7a-2f51-5661-bd9a-fe82b5091b28",
+			"url": "https://www.nytimes.com/2024/03/29/health/fda-heart-pump-fatalities.html",
+			"id": 100000009379020,
+			"asset_id": 100000009379020,
+			"source": "New York Times",
+			"published_date": "2024-03-29",
+			"updated": "2024-03-29 22:53:26",
+			"section": "Health",
+			"subsection": "",
+			"nytdsection": "health",
+			"adx_keywords": "Medical Devices;Heart;Deaths (Fatalities);Implants;Consumer Protection;your-feed-healthcare;Food and Drug Administration;Abiomed Inc;Johnson & Johnson",
+			"column": null,
+			"byline": "By Christina Jewett",
+			"type": "Article",
+			"title": "Heart Pump Is Linked to 49 Deaths, the F.D.A. Warns",
+			"abstract": "The agency faulted the device maker for delayed notice of mounting complications, citing increasing reports of how use of the device perforated the walls of the heart.",
+			"des_facet": [
+				"Medical Devices",
+				"Heart",
+				"Deaths (Fatalities)",
+				"Implants",
+				"Consumer Protection",
+				"your-feed-healthcare"
+			],
+			"org_facet": ["Food and Drug Administration", "Abiomed Inc", "Johnson & Johnson"],
+			"per_facet": [],
+			"geo_facet": [],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "The Impella CP heart pump. The F.D.A. warned it had received increased reports of how use of the device had torn the walls of patients’ hearts.",
+					"copyright": "Abiomed",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29HEART-DEVICE-sub-hqvt/29HEART-DEVICE-sub-hqvt-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29HEART-DEVICE-sub-hqvt/29HEART-DEVICE-sub-hqvt-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29HEART-DEVICE-sub-hqvt/29HEART-DEVICE-sub-hqvt-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/2926b0ea-4d61-5cf5-84e5-aaa3dec042d7",
+			"url": "https://www.nytimes.com/2024/03/29/business/arizona-housing-economy.html",
+			"id": 100000009358395,
+			"asset_id": 100000009358395,
+			"source": "New York Times",
+			"published_date": "2024-03-29",
+			"updated": "2024-03-29 11:57:50",
+			"section": "Business",
+			"subsection": "",
+			"nytdsection": "business",
+			"adx_keywords": "Real Estate and Housing (Residential);Prices (Fares, Fees and Rates);Affordable Housing;United States Economy;Renting and Leasing (Real Estate);Arizona;Maricopa County (Ariz);Phoenix (Ariz)",
+			"column": null,
+			"byline": "By Peter S. Goodman",
+			"type": "Article",
+			"title": "Why It’s So Expensive to Live in Phoenix",
+			"abstract": "Arizona is a presidential election battleground state, and a dire shortage of affordable housing there is sowing economic anxiety among voters.",
+			"des_facet": [
+				"Real Estate and Housing (Residential)",
+				"Prices (Fares, Fees and Rates)",
+				"Affordable Housing",
+				"United States Economy",
+				"Renting and Leasing (Real Estate)"
+			],
+			"org_facet": [],
+			"per_facet": [],
+			"geo_facet": ["Arizona", "Maricopa County (Ariz)", "Phoenix (Ariz)"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "A housing development going up in San Tan Valley, an unincorporated community outside Phoenix.",
+					"copyright": "Cassidy Araiza for The New York Times",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/25/multimedia/00arizona-econ-qvzb/00arizona-econ-qvzb-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/25/multimedia/00arizona-econ-qvzb/00arizona-econ-qvzb-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/25/multimedia/00arizona-econ-qvzb/00arizona-econ-qvzb-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/345a8ff4-766b-57cd-b2a9-f46df9b7d9f6",
+			"url": "https://www.nytimes.com/2024/03/29/opinion/ai-internet-x-youtube.html",
+			"id": 100000009373343,
+			"asset_id": 100000009373343,
+			"source": "New York Times",
+			"published_date": "2024-03-29",
+			"updated": "2024-03-30 01:00:27",
+			"section": "Opinion",
+			"subsection": "",
+			"nytdsection": "opinion",
+			"adx_keywords": "Artificial Intelligence;Computers and the Internet;Social Media;ChatGPT;Pollution;Conservation of Resources;Regulation and Deregulation of Industry;Research;Einstein, Albert;Amazon.com Inc;Facebook Inc",
+			"column": null,
+			"byline": "By Erik Hoel",
+			"type": "Article",
+			"title": "A.I.-Generated Garbage Is Polluting Our Culture",
+			"abstract": "An insidious creep of artificial intelligence is already penetrating our most important institutions.",
+			"des_facet": [
+				"Artificial Intelligence",
+				"Computers and the Internet",
+				"Social Media",
+				"ChatGPT",
+				"Pollution",
+				"Conservation of Resources",
+				"Regulation and Deregulation of Industry",
+				"Research"
+			],
+			"org_facet": ["Amazon.com Inc", "Facebook Inc"],
+			"per_facet": ["Einstein, Albert"],
+			"geo_facet": [],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "",
+					"copyright": "Jim Stoten",
+					"approved_for_syndication": 0,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/31/opinion/29hoel/29hoel-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/31/opinion/29hoel/29hoel-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/31/opinion/29hoel/29hoel-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/5863bab9-fcba-5e18-8f32-329f87ad3603",
+			"url": "https://www.nytimes.com/2024/03/28/world/europe/dachshund-dog-breeding-ban-germany.html",
+			"id": 100000009385219,
+			"asset_id": 100000009385219,
+			"source": "New York Times",
+			"published_date": "2024-03-28",
+			"updated": "2024-03-28 14:33:07",
+			"section": "World",
+			"subsection": "Europe",
+			"nytdsection": "world",
+			"adx_keywords": "Breeding of Animals;Animal Abuse, Rights and Welfare;Law and Legislation;Pets;Dogs;Germany",
+			"column": null,
+			"byline": "By Derrick Bryson Taylor",
+			"type": "Article",
+			"title": "Germany’s Beloved Dachshund Could Be Threatened Under Breeding Bill",
+			"abstract": "The bill would strengthen laws around dog breeding, but Germany’s kennel club worries that the legislation could lead to bans on several breeds.",
+			"des_facet": [
+				"Breeding of Animals",
+				"Animal Abuse, Rights and Welfare",
+				"Law and Legislation",
+				"Pets",
+				"Dogs"
+			],
+			"org_facet": [],
+			"per_facet": [],
+			"geo_facet": ["Germany"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "Dachshunds have long been a national symbol in Germany.",
+					"copyright": "Carsten Koall/picture alliance, via Getty Images",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/multimedia/28xp-dachshund4/28xp-dachshund4-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/multimedia/28xp-dachshund4/28xp-dachshund4-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/multimedia/28xp-dachshund4/28xp-dachshund4-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/3c374ce8-74e4-5b2e-b77d-b3a2ef523699",
+			"url": "https://www.nytimes.com/2024/03/29/opinion/moscow-attack-putin-ukraine.html",
+			"id": 100000009384078,
+			"asset_id": 100000009384078,
+			"source": "New York Times",
+			"published_date": "2024-03-29",
+			"updated": "2024-03-30 00:46:16",
+			"section": "Opinion",
+			"subsection": "",
+			"nytdsection": "opinion",
+			"adx_keywords": "Russian Invasion of Ukraine (2022);Terrorism;War and Armed Conflicts;Putin, Vladimir V;Islamic State Khorasan;Russia;Ukraine",
+			"column": null,
+			"byline": "By Hanna Notte",
+			"type": "Article",
+			"title": "Putin’s Next Escalation Is Coming",
+			"abstract": "Even without the terror attack in Moscow last week, the Russian president was primed to step up his assault on Ukraine.",
+			"des_facet": [
+				"Russian Invasion of Ukraine (2022)",
+				"Terrorism",
+				"War and Armed Conflicts"
+			],
+			"org_facet": ["Islamic State Khorasan"],
+			"per_facet": ["Putin, Vladimir V"],
+			"geo_facet": ["Russia", "Ukraine"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "",
+					"copyright": "Grigory Sysoyev/Sputnik, via Reuters",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/31/multimedia/29notte-qklb/29notte-qklb-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/31/multimedia/29notte-qklb/29notte-qklb-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/31/multimedia/29notte-qklb/29notte-qklb-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/2e7eef83-d0bc-5cd0-a98a-1a7dd32f6985",
+			"url": "https://www.nytimes.com/2024/03/29/world/europe/iceland-volcano-eruption-photos.html",
+			"id": 100000009385258,
+			"asset_id": 100000009385258,
+			"source": "New York Times",
+			"published_date": "2024-03-29",
+			"updated": "2024-03-29 18:34:57",
+			"section": "World",
+			"subsection": "Europe",
+			"nytdsection": "world",
+			"adx_keywords": "Volcanoes;Earthquakes;Geothermal Power;Evacuations and Evacuees;Grindavik (Iceland);Iceland",
+			"column": null,
+			"byline": "By Claire Moses and Tony Cenicola",
+			"type": "Article",
+			"title": "Empty Roads and Spewing Lava: 4 Months Into Iceland’s Eruptions",
+			"abstract": "Volcanic eruptions are continuing in the Reykjanes Peninsula in Iceland. Streets are empty and the Blue Lagoon resort remains closed.",
+			"des_facet": [
+				"Volcanoes",
+				"Earthquakes",
+				"Geothermal Power",
+				"Evacuations and Evacuees"
+			],
+			"org_facet": [],
+			"per_facet": [],
+			"geo_facet": ["Grindavik (Iceland)", "Iceland"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "The plume from a volcanic eruption as viewed from Route 41 near the town of Kalfatjorn in western Iceland on Wednesday.",
+					"copyright": "",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29xp-icelandvisual-smoke-mpqg/29xp-icelandvisual-smoke-mpqg-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29xp-icelandvisual-smoke-mpqg/29xp-icelandvisual-smoke-mpqg-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29xp-icelandvisual-smoke-mpqg/29xp-icelandvisual-smoke-mpqg-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/0c6d57d7-4351-5557-9359-021cf978ea2a",
+			"url": "https://www.nytimes.com/2024/03/29/movies/netflix-leaving-april.html",
+			"id": 100000009384627,
+			"asset_id": 100000009384627,
+			"source": "New York Times",
+			"published_date": "2024-03-29",
+			"updated": "2024-03-29 09:58:40",
+			"section": "Movies",
+			"subsection": "",
+			"nytdsection": "movies",
+			"adx_keywords": "Movies;Television;Netflix Inc",
+			"column": null,
+			"byline": "By Jason Bailey",
+			"type": "Article",
+			"title": "Stream These 12 Movies Before They Leave Netflix in April",
+			"abstract": "A Ryan Gosling detective comedy, a Formula One racing drama and the romantic musical “Mamma Mia!” are among the movies exiting the streaming service.",
+			"des_facet": ["Movies", "Television"],
+			"org_facet": ["Netflix Inc"],
+			"per_facet": [],
+			"geo_facet": [],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "Ryan Gosling, left, and Russell Crowe in “The Nice Guys.”",
+					"copyright": "Daniel Mcfadden/Warner Bros. Entertainment, via Associated Press",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29netflix-leaving-fbgq/29netflix-leaving-fbgq-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29netflix-leaving-fbgq/29netflix-leaving-fbgq-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29netflix-leaving-fbgq/29netflix-leaving-fbgq-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/4ef04bb7-07a5-59c9-aafd-6d1170a2610f",
+			"url": "https://www.nytimes.com/2024/03/29/climate/epa-trucks-emissions-regulation.html",
+			"id": 100000009385552,
+			"asset_id": 100000009385552,
+			"source": "New York Times",
+			"published_date": "2024-03-29",
+			"updated": "2024-03-29 22:28:31",
+			"section": "Climate",
+			"subsection": "",
+			"nytdsection": "climate",
+			"adx_keywords": "Global Warming;Greenhouse Gas Emissions;Trucks and Trucking;Electric and Hybrid Vehicles;Regulation and Deregulation of Industry;United States Politics and Government;Air Pollution;Biden, Joseph R Jr;Regan, Michael S (1976- );Environmental Protection Agency",
+			"column": null,
+			"byline": "By Coral Davenport and Jack Ewing",
+			"type": "Article",
+			"title": "New Pollution Rules Aim to Lift Sales of Electric Trucks",
+			"abstract": "The latest in a string of ambitious climate regulations aims to clean up the heaviest polluters on the road. But truckers are worried.",
+			"des_facet": [
+				"Global Warming",
+				"Greenhouse Gas Emissions",
+				"Trucks and Trucking",
+				"Electric and Hybrid Vehicles",
+				"Regulation and Deregulation of Industry",
+				"United States Politics and Government",
+				"Air Pollution"
+			],
+			"org_facet": ["Environmental Protection Agency"],
+			"per_facet": ["Biden, Joseph R Jr", "Regan, Michael S (1976- )"],
+			"geo_facet": [],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "A truck driver at Hight Logistics with one of the company’s electric trucks in their company’s lot.",
+					"copyright": "Mark Abramson for The New York Times",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29cli-trucks-01-qbwh/29cli-trucks-01-qbwh-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29cli-trucks-01-qbwh/29cli-trucks-01-qbwh-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/29cli-trucks-01-qbwh/29cli-trucks-01-qbwh-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/756abb88-5e48-5001-bf22-48b9087d1bec",
+			"url": "https://www.nytimes.com/2024/03/27/realestate/japanese-maple-tree-gardens.html",
+			"id": 100000009277128,
+			"asset_id": 100000009277128,
+			"source": "New York Times",
+			"published_date": "2024-03-27",
+			"updated": "2024-03-29 20:07:53",
+			"section": "Real Estate",
+			"subsection": "",
+			"nytdsection": "real estate",
+			"adx_keywords": "Trees and Shrubs;Collectors and Collections;Content Type: Service",
+			"column": null,
+			"byline": "By Margaret Roach",
+			"type": "Article",
+			"title": "Why Japanese Maples Are Like Potato Chips (or Orchids)",
+			"abstract": "You won’t stop at just one, once you discover what they can do for your garden: “People get obsessed.”",
+			"des_facet": [
+				"Trees and Shrubs",
+				"Collectors and Collections",
+				"Content Type: Service"
+			],
+			"org_facet": [],
+			"per_facet": [],
+			"geo_facet": [],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "One of the most dramatic varieties of Japanese maple is Purple Ghost, which has purplish-red leaves with a showy network of black veining, or reticulation.",
+					"copyright": "Buchholz & Buchholz Nursery",
+					"approved_for_syndication": 0,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/31/realestate/27garden01/oakImage-1711309930444-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/31/realestate/27garden01/oakImage-1711309930444-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/31/realestate/27garden01/oakImage-1711309930444-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/99b32b9f-1fac-5f69-88fc-598f87fd906c",
+			"url": "https://www.nytimes.com/2024/03/28/business/linda-bean-dead.html",
+			"id": 100000009381472,
+			"asset_id": 100000009381472,
+			"source": "New York Times",
+			"published_date": "2024-03-28",
+			"updated": "2024-03-29 07:54:42",
+			"section": "Business",
+			"subsection": "",
+			"nytdsection": "business",
+			"adx_keywords": "Deaths (Obituaries);Conservatism (US Politics);United States Politics and Government;Lobsters;Bean, Linda L (1941- );LL Bean Co;Republican Party;Maine;Port Clyde (Me)",
+			"column": null,
+			"byline": "By Trip Gabriel",
+			"type": "Article",
+			"title": "Linda Bean, an L.L. Bean Heir and a Conservative Donor, Dies at 82",
+			"abstract": "A granddaughter of the celebrated Maine brand’s founder, she set out as an entrepreneur in her mid-60s and used her wealth to fund right-wing causes.",
+			"des_facet": [
+				"Deaths (Obituaries)",
+				"Conservatism (US Politics)",
+				"United States Politics and Government",
+				"Lobsters"
+			],
+			"org_facet": ["LL Bean Co", "Republican Party"],
+			"per_facet": ["Bean, Linda L (1941- )"],
+			"geo_facet": ["Maine", "Port Clyde (Me)"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "Linda Bean in Port Clyde, Maine, in 2023. She was well known in the state as a conservative donor and sat on the board of the outdoor retailer L.L. Bean, which her grandfather founded.",
+					"copyright": "Tristan Spinski for The New York Times",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/26/multimedia/26Bean--02-fhkl/26Bean--02-fhkl-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/26/multimedia/26Bean--02-fhkl/26Bean--02-fhkl-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/26/multimedia/26Bean--02-fhkl/26Bean--02-fhkl-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/fcaa7168-45ad-5e89-a611-ad46ecc99e56",
+			"url": "https://www.nytimes.com/2024/03/28/arts/design/tiffany-art-basquiat.html",
+			"id": 100000009374649,
+			"asset_id": 100000009374649,
+			"source": "New York Times",
+			"published_date": "2024-03-28",
+			"updated": "2024-03-29 11:46:37",
+			"section": "Arts",
+			"subsection": "Art & Design",
+			"nytdsection": "arts",
+			"adx_keywords": "Luxury Goods and Services;Jewels and Jewelry;Shopping and Retail;Art;Marino, Peter;Basquiat, Jean-Michel;Hirst, Damien;Kapoor, Anish;Tiffany & Company;Manhattan (NYC)",
+			"column": null,
+			"byline": "By Andrew Russeth",
+			"type": "Article",
+			"title": "At Tiffany’s Flagship, Luxe Art Helps Sell the Jewels",
+			"abstract": "Turrell. Hirst. Basquiat: This 10-story palace is filled with famous names, for a heady fusion of relevant, and discomfiting, contemporary art and retailing.",
+			"des_facet": [
+				"Luxury Goods and Services",
+				"Jewels and Jewelry",
+				"Shopping and Retail",
+				"Art"
+			],
+			"org_facet": ["Tiffany & Company"],
+			"per_facet": [
+				"Marino, Peter",
+				"Basquiat, Jean-Michel",
+				"Hirst, Damien",
+				"Kapoor, Anish"
+			],
+			"geo_facet": ["Manhattan (NYC)"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "Looming next to vitrines filled with engagement rings are Daniel Arsham’s “Bronze Eroded Venus of Arles” (2022), at left, and Anish Kapoor’s “Random Triangle Mirror” (2016) at right, on the third floor of the Tiffany flagship store on Fifth Avenue.",
+					"copyright": "Anish Kapoor. All Rights Reserved, DACS, London/ARS, NY; Photo by Jeenah Moon for The New York Times",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/multimedia/28tiffany-notebook-jlgf/28tiffany-notebook-jlgf-thumbStandard-v3.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/multimedia/28tiffany-notebook-jlgf/28tiffany-notebook-jlgf-mediumThreeByTwo210-v2.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/multimedia/28tiffany-notebook-jlgf/28tiffany-notebook-jlgf-mediumThreeByTwo440-v2.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://article/8d50097c-7463-54c0-89c8-fd28ad99c84c",
+			"url": "https://www.nytimes.com/2024/03/28/arts/design/kathe-kollwitz-moma-prints-art.html",
+			"id": 100000009380097,
+			"asset_id": 100000009380097,
+			"source": "New York Times",
+			"published_date": "2024-03-28",
+			"updated": "2024-03-29 10:46:40",
+			"section": "Arts",
+			"subsection": "Art & Design",
+			"nytdsection": "arts",
+			"adx_keywords": "Content Type: Personal Profile;Art;Museums;Printing and Allied Trades;Politics and Government;World War I (1914-18);World War II (1939-45);Sculpture;Kollwitz, Kathe (1867-1945);Museum of Modern Art;Germany",
+			"column": null,
+			"byline": "By Aruna D’Souza",
+			"type": "Article",
+			"title": "The Revolutionary Power of Women’s Rage and Grief",
+			"abstract": "Käthe Kollwitz’s fierce belief in social justice and her indelible images made her one of Germany’s best printmakers. A dazzling MoMA show reminds us why.",
+			"des_facet": [
+				"Content Type: Personal Profile",
+				"Art",
+				"Museums",
+				"Printing and Allied Trades",
+				"Politics and Government",
+				"World War I (1914-18)",
+				"World War II (1939-45)",
+				"Sculpture"
+			],
+			"org_facet": ["Museum of Modern Art"],
+			"per_facet": ["Kollwitz, Kathe (1867-1945)"],
+			"geo_facet": ["Germany"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "photo",
+					"caption": "In Käthe Kollwitz’s “Woman with Dead Child,” in a Museum of Modern Art survey, two figures become one in the mother’s tight embrace. Etching with drypoint, sandpaper; artist’s proof.",
+					"copyright": "The Trustees of the British Museum",
+					"approved_for_syndication": 0,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/28kollwitz-review-01-kzjl/28kollwitz-review-01-kzjl-thumbStandard.jpg",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/28kollwitz-review-01-kzjl/28kollwitz-review-01-kzjl-mediumThreeByTwo210.jpg",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/29/multimedia/28kollwitz-review-01-kzjl/28kollwitz-review-01-kzjl-mediumThreeByTwo440.jpg",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		},
+		{
+			"uri": "nyt://interactive/1efe9049-aa8d-5c68-a2d0-2fc8076a26f4",
+			"url": "https://www.nytimes.com/interactive/2024/03/29/us/chronic-absences.html",
+			"id": 100000009380059,
+			"asset_id": 100000009380059,
+			"source": "New York Times",
+			"published_date": "2024-03-29",
+			"updated": "2024-03-29 18:15:32",
+			"section": "U.S.",
+			"subsection": "",
+			"nytdsection": "u.s.",
+			"adx_keywords": "Education (K-12);Education;Absenteeism and Truancy;United States",
+			"column": null,
+			"byline": "By Sarah Mervosh and Francesca Paris",
+			"type": "Interactive",
+			"title": "​Why School Absences Have ‘Exploded’ Almost Everywhere",
+			"abstract": "The pandemic changed families’ lives and the culture of education: “Our relationship with school became optional.”",
+			"des_facet": ["Education (K-12)", "Education", "Absenteeism and Truancy"],
+			"org_facet": [],
+			"per_facet": [],
+			"geo_facet": ["United States"],
+			"media": [
+				{
+					"type": "image",
+					"subtype": "",
+					"caption": "",
+					"copyright": "The New York Times",
+					"approved_for_syndication": 1,
+					"media-metadata": [
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/multimedia/2024-02-21-chronic-absenteeism-index/2024-02-21-chronic-absenteeism-index-thumbStandard-v3.png",
+							"format": "Standard Thumbnail",
+							"height": 75,
+							"width": 75
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/multimedia/2024-02-21-chronic-absenteeism-index/2024-02-21-chronic-absenteeism-index-mediumThreeByTwo210-v3.png",
+							"format": "mediumThreeByTwo210",
+							"height": 140,
+							"width": 210
+						},
+						{
+							"url": "https://static01.nyt.com/images/2024/03/28/multimedia/2024-02-21-chronic-absenteeism-index/2024-02-21-chronic-absenteeism-index-mediumThreeByTwo440-v3.png",
+							"format": "mediumThreeByTwo440",
+							"height": 293,
+							"width": 440
+						}
+					]
+				}
+			],
+			"eta_id": 0
+		}
+	]
+}
