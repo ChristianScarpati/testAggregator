@@ -10,7 +10,7 @@ To install and run the aggregator in Docker, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/christian/testAggregator.git
+    git clone via ssh git@github.com:ChristianScarpati/testAggregator.git
     ```
 
 2. Navigate to the project directory:
